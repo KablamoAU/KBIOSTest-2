@@ -2,8 +2,8 @@
 
 ###Instructions
 Please build an iPhone application that displays a native map control with the following features:
-* Uses the data set, found in the spreadsheet contained in this repo, to drop a series of pins on the map
-* The data can be inserted into a web service, server technology of your choosing
+* Using the data set found within dataset.xls, drop a series of pins on the map using lat & lon of each POI
+* The data can be uploaded and accessed via a web service, the server technology being of your choosing
 * The map should center over the pins, at an appropriate zoom level to view all the pins
 * The pins should have a popup that contains the description / title of the pin
 * The pins should have a custom animation of some description, eg. Bubbling up from the ground as opposed to dropping from the top
@@ -29,4 +29,4 @@ Ensure that your code utilises apples standards for naming conventions, and only
 Ensure you write neat, tidy code that you would consider suitable for a deployable application.
 
 * Creativity
-We're interested to see what you can do, if you think you can bring a twist to the solution please, lay it on us. 
+We're interested to see what you can do, if you think you can bring a twist or flair to the solution, please, lay it on us. 
